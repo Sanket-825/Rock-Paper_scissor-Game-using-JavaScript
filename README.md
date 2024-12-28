@@ -1,5 +1,5 @@
 # Rock-Paper_scissor-Game-using-JavaScript
-# Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game : https://sanket-825.github.io/Rock-Paper_scissor-Game-using-JavaScript/
 # This repository contains a simple JavaScript implementation of the classic Rock-Paper-Scissors game.
 # Features:
 # 1.User vs. Computer: Play against the computer in a friendly game of Rock-Paper-Scissors.
